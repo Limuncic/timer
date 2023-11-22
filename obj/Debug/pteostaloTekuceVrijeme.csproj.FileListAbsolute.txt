@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\bin\Debug\pteostaloTekuceVrijeme.exe.config
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\bin\Debug\pteostaloTekuceVrijeme.exe
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\bin\Debug\pteostaloTekuceVrijeme.pdb
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\obj\Debug\pteostaloTekuceVrijeme.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\obj\Debug\pteostaloTekuceVrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\obj\Debug\pteostaloTekuceVrijeme.Form1.resources
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\obj\Debug\pteostaloTekuceVrijeme.Properties.Resources.resources
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\obj\Debug\pteostaloTekuceVrijeme.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\obj\Debug\pteostaloTekuceVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\obj\Debug\pteostaloTekuceVrijeme.exe
+C:\Users\ucenik\source\repos\pteostaloTekuceVrijeme\obj\Debug\pteostaloTekuceVrijeme.pdb
